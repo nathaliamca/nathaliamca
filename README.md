@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Nathalia de Mello</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alan2M&color=yellow" alt="Profile views" /> </p>
+📚 Estudante de Ciências da Computação no primeiro período do CESAR School
 
-<!--
-**nathaliamca/nathaliamca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Explorando e aprendendo novas tecnologias
 
-Here are some ideas to get you started:
+💬 Me pergunte sobre Python, java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fato divertido: Amo desafios de programação e resolver problemas criativos! 😄
+
+      
+
+<br>
+📞 Contato
+<p align="left" style="background:yellow"> <a href="https://github.com/nathaliamca" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Alan2M-05122A?style=flat&logo=github" alt="github"/> </a> <a href="https://www.linkedin.com/in/nathalia-de-mello-carneiro-40b293338/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Alan%20Matos-05122A?style=flat&logo=linkedin" alt="linkedin"/> </a> </p>
