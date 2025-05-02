@@ -1,5 +1,5 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Nathalia de Mello</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathaliamca&color=yellow" alt="Profile views" /> </p>
-📚 Estudante de Ciências da Computação no primeiro período do CESAR School
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Nathalia </h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathaliamca&color=yellow" alt="Profile views" /> </p>
+📚 Estudante de Ciências da Computação do CESAR School
 
 🔭 Explorando e aprendendo novas tecnologias
 
